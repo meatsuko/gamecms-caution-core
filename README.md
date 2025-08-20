@@ -1,6 +1,8 @@
 ## Installing
 place ``__caution_core`` folder in ``modules_extra``
 
+run ``$ composer install`` in ``__caution_core``
+
 fill config file: modules_extra/``__caution_core/db.php``
 
 patch file: inc/classes/class.autoload.php
